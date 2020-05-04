@@ -1,4 +1,4 @@
-Comando para criar novo braço:
+Comando para criar novo braço (nova ramificação):
 
 <pre>$ git push origin nome_do_novo_braco</pre>
 
