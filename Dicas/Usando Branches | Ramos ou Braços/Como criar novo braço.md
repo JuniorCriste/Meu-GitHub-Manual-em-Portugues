@@ -15,5 +15,5 @@ Comando enviar atualização no novo braço:
 Pronto!
 
 
-Nota adicionada por: <a href="www.github.com/JuniorCriste"> Junior Criste</a>
+Nota adicionada por: <a href="http://www.github.com/JuniorCriste"> Junior Criste</a>
 
