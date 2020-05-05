@@ -1,5 +1,5 @@
 # Passos iniciais para levar um arquivo para o GitHub
-<h5> Primeiros passos em <a href="https://youtu.be/S-rX1qG9x_w">Vídeo</a> </h5>
+<h5> Primeiros passos em <a href="https://youtu.be/S-rX1qG9x_w?t=88">Vídeo</a> </h5>
 <hr />
 
 Para começar, navegue até a pasta de seu projeto, dentro dela abra um terminal.
@@ -34,7 +34,7 @@ Ele irá pedir seu usuário e sua senha, no linux não é mostrado os digitos da
 
 
 
-<b><color="red">ATENÇÃO!</color></b> o passo 4 só é feito no primeiro envio do diretório. Depois repete apenas as outras etapas.
+<b>ATENÇÃO!</b> O passo 4 só é feito no primeiro envio do diretório. Depois repete apenas as outras etapas.
 
 
 
