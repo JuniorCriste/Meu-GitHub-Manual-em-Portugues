@@ -15,12 +15,12 @@ Para começar, navegue até a pasta de seu projeto, dentro dela abra um terminal
 <pre>$ git status</pre>
 
 
-Se estiver atualizado a resposta será parecida com isso:
-<img src="https://github.com/JuniorCriste/Meu-GitHub-Manual-em-Portugues/blob/master/assets/status_msg_2.png?raw=true">
+Se estiver atualizado a resposta será parecida com isso: <br />
+<img src="https://github.com/JuniorCriste/Meu-GitHub-Manual-em-Portugues/blob/master/assets/status_msg_2.png">
 
 
-Se <b>não</b> estiver atualizado, ele mostrará alguns nomes de arquivos que necessitam de serem atualizados, parecido com isso:
-<img src="https://github.com/JuniorCriste/Meu-GitHub-Manual-em-Portugues/blob/master/assets/status_msg.png?raw=true">
+Se <b>não</b> estiver atualizado, ele mostrará alguns nomes de arquivos que necessitam de serem atualizados, parecido com isso: <br />
+<img src="https://github.com/JuniorCriste/Meu-GitHub-Manual-em-Portugues/blob/master/assets/status_msg.png">
 
 
 Neste caso será necessário seguir os passos de  <a href="https://github.com/JuniorCriste/Meu-GitHub-Manual-em-Portugues/tree/master/Dicas/2.%20Atualizar%20Envio">Atualizar Envio</a>
