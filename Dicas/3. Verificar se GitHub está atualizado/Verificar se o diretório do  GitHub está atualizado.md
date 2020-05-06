@@ -1,4 +1,4 @@
-# Passos para atualizar um arquivo no GitHub
+# Passos para verificar se o diretório dentro do GitHub está de acordo com o da maquina
 
 <hr />
 
@@ -10,22 +10,20 @@ Para começar, navegue até a pasta de seu projeto, dentro dela abra um terminal
 <pre>$ git init</pre>
 
 
-2 - Okay, agora adicione o conteúdo com:
+2 - Vamos ver se tudo está atualizado
 
-<pre>$ git add .</pre>
-
-
-3 - Agora vamos dar o commit:
-
-<pre>$ git commit -m"Descreva aqui o que há de novo em sua atualização"</pre>
-<img src="https://github.com/JuniorCriste/Meu-GitHub-Manual-em-Portugues/blob/master/assets/commit_msg.png?raw=true">
+<pre>$ git status</pre>
 
 
-4 - Vamos enviar:
+Se estiver atualizado a resposta será parecida com isso:
+<img src="https://github.com/JuniorCriste/Meu-GitHub-Manual-em-Portugues/blob/master/assets/status_msg_2.png?raw=true">
 
-<pre>$ git push -u origin master</pre> 
 
-Ele irá pedir seu usuário e sua senha, no linux não é mostrado os digitos da senha, isso é normal.
+Se <b>não</b> estiver atualizado, ele mostrará alguns nomes de arquivos que necessitam de serem atualizados, parecido com isso:
+<img src="https://github.com/JuniorCriste/Meu-GitHub-Manual-em-Portugues/blob/master/assets/status_msg.png?raw=true">
+
+
+Neste caso será necessário seguir os passos de  <a href="https://github.com/JuniorCriste/Meu-GitHub-Manual-em-Portugues/tree/master/Dicas/2.%20Atualizar%20Envio">Atualizar Envio</a>
 
 
 
