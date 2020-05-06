@@ -1,5 +1,5 @@
-# Passos iniciais para levar um arquivo para o GitHub
-<h5> Primeiros passos em <a href="https://youtu.be/S-rX1qG9x_w?t=88">Vídeo</a> </h5>
+# Passos para atualizar um arquivo no GitHub
+
 <hr />
 
 Para começar, navegue até a pasta de seu projeto, dentro dela abra um terminal.
@@ -17,24 +17,17 @@ Para começar, navegue até a pasta de seu projeto, dentro dela abra um terminal
 
 3 - Agora vamos dar o commit:
 
-<pre>$ git commit -m"Descreva resumidamente aqui o que é seu projeto"</pre>
+<pre>$ git commit -m"Descreva aqui o que há de novo em sua atualização"</pre>
 <img src="https://github.com/JuniorCriste/Meu-GitHub-Manual-em-Portugues/blob/master/assets/commit_msg.png?raw=true">
 
 
-4 - Agora você vai mostrar onde vai armazenar:
-
-<pre>$ git remote add endereço_do_diretorio_dentro_do_github.git</pre> 
-
-
-5 - E por fim você vai enviar:
+4 - Vamos enviar:
 
 <pre>$ git push -u origin master</pre> 
 
 Ele irá pedir seu usuário e sua senha, no linux não é mostrado os digitos da senha, isso é normal.
 
 
-
-<b>ATENÇÃO!</b> O passo 4 só é feito no primeiro envio do diretório. Depois repete apenas as outras etapas.
 
 
 
